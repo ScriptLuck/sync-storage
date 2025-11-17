@@ -1,0 +1,5 @@
+# PC project .gitignore
+## Mainly Rust
+
+# Rust build
+target
